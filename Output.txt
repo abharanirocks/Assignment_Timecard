@@ -1,0 +1,38 @@
+
+------------- Timecard Analysis Report -------------
+                       Employee  Consecutive Days Warning  Excessive Hours Warning
+               CEreira Jr, JEse                      True                    False
+               CaMaXaWE, CeghaW                      True                    False
+           De Xa Cerda, IgWaciE                      True                    False
+DeXgadiXXE REdarMe, ChrisMiaW S                      True                     True
+           GrACfieXd, CErWeXiAs                      True                    False
+         HaCiXMEW, DeaWMe DevEW                      True                    False
+               MraW, WiXXiaC Ha                      True                    False
+       REdrigAez, GraWdEW AWgeX                      True                    False
+                     Xee, XaCar                      True                    False
+a) Employees who have worked for 7 consecutive days:
+- CEreira Jr, JEse
+- CaMaXaWE, CeghaW
+- De Xa Cerda, IgWaciE
+- DeXgadiXXE REdarMe, ChrisMiaW S
+- GrACfieXd, CErWeXiAs
+- HaCiXMEW, DeaWMe DevEW
+- MraW, WiXXiaC Ha
+- REdrigAez, GraWdEW AWgeX
+- Xee, XaCar
+
+b) Employees who have less than 10 hours between shifts but greater than 1 hour:
+- CEreira Jr, JEse
+- CaMaXaWE, CeghaW
+- De Xa Cerda, IgWaciE
+- DeXgadiXXE REdarMe, ChrisMiaW S
+- GrACfieXd, CErWeXiAs
+- HaCiXMEW, DeaWMe DevEW
+- MraW, WiXXiaC Ha
+- REdrigAez, GraWdEW AWgeX
+- Xee, XaCar
+
+c) Employees who have worked for more than 14 hours in a single shift:
+- DeXgadiXXE REdarMe, ChrisMiaW S
+
+
